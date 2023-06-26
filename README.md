@@ -19,6 +19,8 @@ Um das Testprojekt auszuführen, müssen Sie die folgenden Komponenten auf Ihrem
 - Maven (Build-Management-Tool)
 - Webbrowser (z.B. Google Chrome, Firefox)
 
-#### Sie können auf die Akzeptanzkriterien und Testfälle, die ich für das Projekt erstellt habe, über die untenstehenden Links zugreifen.
+### Testfälle
+Sie können auf die Akzeptanzkriterien und Testfälle, die ich für das Projekt erstellt habe, über die untenstehenden Links zugreifen.
 
-- [Testcases ]([https://docs.google.com/spreadsheets/d/1Iias7tWkN2KwHEqKU0Ri4wjHJ9pkZ5DdFc4RvlPY2vw/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1IsrAQwPCr_oAuA1SPXSPq8RxtTY_MBEGbBzjWzRz30s/edit?usp=sharing)https://docs.google.com/spreadsheets/d/1IsrAQwPCr_oAuA1SPXSPq8RxtTY_MBEGbBzjWzRz30s/edit?usp=sharing)
+- [Testcases](https://docs.google.com/spreadsheets/d/1IsrAQwPCr_oAuA1SPXSPq8RxtTY_MBEGbBzjWzRz30s/edit?usp=sharing)
+
