@@ -1,6 +1,6 @@
 # Saucedemo Webshop Project
 
-Das Projekt enthält einen Testsatz, um alle Funktionen des Shops für Regressionstests zu überprüfen. Es wurde mit Java als Programmiersprache entwickelt und verwendet das BDD-Cucumber-Framework in Verbindung mit dem Page Object Model.
+Das Projekt enthält einen Testsatz, um alle Funktionen des Saucedemo Webshops für Regressionstests zu überprüfen. Es wurde mit Java als Programmiersprache entwickelt und verwendet das BDD-Cucumber-Framework in Verbindung mit dem Page Object Model.
 
 ## Abhängigkeiten
 
