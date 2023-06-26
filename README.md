@@ -24,3 +24,8 @@ Sie können auf die Akzeptanzkriterien und Testfälle, die ich für das Projekt 
 
 - [Testcases](https://docs.google.com/spreadsheets/d/1IsrAQwPCr_oAuA1SPXSPq8RxtTY_MBEGbBzjWzRz30s/edit?usp=sharing)
 
+### Testbericht
+Du kannst den Testbericht dieses Projects im untenstehenden Link herunterladen.
+
+- [Testbericht](https://github.com/VictorySieg/Saucedemo/blob/master/cucumber-reports.html)
+
